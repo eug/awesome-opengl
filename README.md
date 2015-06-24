@@ -3,11 +3,10 @@ A curated list of awesome OpenGL libraries, debuggers and resources. Inspired by
 
 * [Libraries] (#libraries)
 * [Debug] (#debug)
-* [Resources] (#resources)
-	* [Websites] (#websites)
-	* [Videos] (#videos)
-	* [Books] (#books)
-	* [Articles] (#articles)
+* [Websites] (#websites)
+* [Videos] (#videos)
+* [Books] (#books)
+* [Articles] (#articles)
 
 ## Libraries
 
@@ -37,3 +36,16 @@ A curated list of awesome OpenGL libraries, debuggers and resources. Inspired by
 * [Gremedy] (http://www.gremedy.com)
 * [NVIDIA Nsight] (https://developer.nvidia.com/nvidia-nsight-visual-studio-edition)
 * [vogl] (https://github.com/ValveSoftware/vogl)
+
+## Websites
+
+*OpenGL related websites*
+
+* [Learn OpenGL] (http://learnopengl.com)
+* [Light House 3D] (http://www.lighthouse3d.com/tutorials/glsl-core-tutorial)
+* [Modern OpenGL] (http://www.tomdalling.com/blog/category/modern-opengl)
+* [OpenGL Examples] (https://github.com/McNopper/OpenGL)
+* [OpenGL Step by Step] (http://ogldev.atspace.co.uk)
+* [OpenGL Tutorial - Alexander Overvoorde](https://open.gl)
+* [OpenGL Tutorial - Song Ho Ahn] (http://www.songho.ca/opengl)
+* [OpenGL Tutorial] (http://www.opengl-tutorial.org)
