@@ -18,7 +18,7 @@ A curated list of awesome OpenGL libraries, debuggers and resources. Inspired by
 * [GLEW] (http://glew.sourceforge.net)
 * [GLFW] (http://www.glfw.org)
 * [glm] (http://glm.g-truc.net/0.9.6/index.html)
-* [GLUT] (http://freeglut.sourceforge.net)
+* [freeGLUT] (http://freeglut.sourceforge.net)
 * [Magnum] (http://mosra.cz/blog/magnum.php)
 * [Newton] (http://newtondynamics.com/forum/newton.php)
 * [OgPlus] (http://oglplus.org)
