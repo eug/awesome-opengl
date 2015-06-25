@@ -42,6 +42,7 @@ A curated list of awesome OpenGL libraries, debuggers and resources. Inspired by
 *OpenGL related websites*
 
 * [Learn OpenGL] (http://learnopengl.com)
+* [Learning Modern 3D Graphics Programming] (http://web.archive.org/web/20150311211412/http://www.arcsynthesis.org/gltut)
 * [Light House 3D] (http://www.lighthouse3d.com/tutorials/glsl-core-tutorial)
 * [Modern OpenGL] (http://www.tomdalling.com/blog/category/modern-opengl)
 * [OpenGL Examples] (https://github.com/McNopper/OpenGL)
