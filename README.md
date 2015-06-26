@@ -34,9 +34,10 @@ A curated list of awesome OpenGL libraries, debuggers and resources. Inspired by
 *Debugging libraries*
 
 * [apitrace] (http://apitrace.github.io) - Tools for tracing OpenGL, Direct3D, and other graphics APIs.
+* [CodeXL](http://developer.amd.com/tools-and-sdks/opencl-zone/codexl/) AMD's OpenGL debugger and profiler. It's the most recent version of gDEBugger.
 * [GL-SL Debugger] (http://glsl-debugger.github.io) - GLSL-Debugger is a tool for debugging OpenGL programs.
 * [GLIntercept] (https://github.com/dtrebilco/glintercept) - GLIntercept is a OpenGL function call interceptor for Windows.
-* [gDEBugger] (http://www.gremedy.com) - gDEBugger is an advanced OpenGL and OpenCL Debugger, Profiler and Memory Analyzer.
+* [Intel-GPA](https://software.intel.com/en-us/gpa) Intel's OpenGL Graphics Performance Analyzer.
 * [NVIDIA Nsight] (https://developer.nvidia.com/nvidia-nsight-visual-studio-edition) - Build, Debug, Profile and Trace heterogeneous compute and graphics applications.
 * [vogl] (https://github.com/ValveSoftware/vogl) - OpenGL capture and playback debugger developed by Valve.
 
