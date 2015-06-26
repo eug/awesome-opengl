@@ -14,30 +14,31 @@ A curated list of awesome OpenGL libraries, debuggers and resources. Inspired by
 
 *Useful libraries for OpenGL applications*
 
-* [assimp] (http://assimp.sourceforge.net)
-* [Bullet] (http://bulletphysics.org/wordpress)
-* [DevIL] (https://github.com/DentonW/DevIL)
-* [GLEW] (http://glew.sourceforge.net)
-* [GLFW] (http://www.glfw.org)
-* [glm] (http://glm.g-truc.net/0.9.6/index.html)
-* [freeGLUT] (http://freeglut.sourceforge.net)
-* [Magnum] (http://mosra.cz/blog/magnum.php)
-* [Newton] (http://newtondynamics.com/forum/newton.php)
-* [OgPlus] (http://oglplus.org)
-* [SDL] (http://www.libsdl.org)
-* [SFML] (http://www.sfml-dev.org)
-* [SOIL] (http://www.lonesock.net/soil.html)
+* [assimp] (http://assimp.sourceforge.net) - assimp is a portable library to import various 3D model formats in a uniform manner.
+* [Bullet] (http://bulletphysics.org/wordpress) - Bullet 3D library provides state of the art collision detection, soft body and rigid body dynamics.
+* [DevIL] (https://github.com/DentonW/DevIL) - DevIL is a cross-platform image library utilizing a simple syntax to handle a variety of images with ease.
+* [freeGLUT] (http://freeglut.sourceforge.net) - freeGLUT allows to create and manage windows containing OpenGL contexts and also read the mouse, keyboard and joystick functions.
+* [GLEW] (http://glew.sourceforge.net) - GLEW is a cross-platform to load OpenGL extensions.
+* [GLFW] (http://www.glfw.org) - GLFW is library for creating windows with OpenGL contexts and receiving input and events.
+* [glm] (http://glm.g-truc.net/0.9.6/index.html) - glm is a mathematics library for graphics software based on the GLSL specifications.
+* [Magnum] (https://github.com/mosra/magnum) - Magnum is 2D/3D graphics engine written in C++11/C++14 and modern OpenGL.
+* [Newton] (http://newtondynamics.com/forum/newton.php) - Newton Dynamics is a cross-platform life-like physics 
+* [OGLplus] (http://oglplus.org) - OGLplus is a collection of libraries which implement an object-oriented facade over the OpenGL.
+* [SDL] (http://www.libsdl.org) - SDL is a library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D.
+* [SFML] (http://www.sfml-dev.org) - SFML provides a simple interface to ease the development of games and multimedia applications.
+* [SOIL] (http://www.lonesock.net/soil.html) - SOIL is a tiny C library used primarily for uploading textures into OpenGL.
+* [stb] (https://github.com/nothings/stb) - Collection of helper libraries for graphics, 3D, audio and many more.
 
 ## Debug
 
 *Debugging libraries*
 
-* [apitrace] (http://apitrace.github.io)
-* [GL-SL Debugger] (http://glsl-debugger.github.io)
-* [GLIntercept] (https://github.com/dtrebilco/glintercept)
-* [Gremedy] (http://www.gremedy.com)
-* [NVIDIA Nsight] (https://developer.nvidia.com/nvidia-nsight-visual-studio-edition)
-* [vogl] (https://github.com/ValveSoftware/vogl)
+* [apitrace] (http://apitrace.github.io) - Tools for tracing OpenGL, Direct3D, and other graphics APIs.
+* [GL-SL Debugger] (http://glsl-debugger.github.io) - GLSL-Debugger is a tool for debugging OpenGL programs.
+* [GLIntercept] (https://github.com/dtrebilco/glintercept) - GLIntercept is a OpenGL function call interceptor for Windows.
+* [gDEBugger] (http://www.gremedy.com) - gDEBugger is an advanced OpenGL and OpenCL Debugger, Profiler and Memory Analyzer.
+* [NVIDIA Nsight] (https://developer.nvidia.com/nvidia-nsight-visual-studio-edition) - Build, Debug, Profile and Trace heterogeneous compute and graphics applications.
+* [vogl] (https://github.com/ValveSoftware/vogl) - OpenGL capture and playback debugger developed by Valve.
 
 ## Websites
 
@@ -57,23 +58,23 @@ A curated list of awesome OpenGL libraries, debuggers and resources. Inspired by
 
 *OpenGL video tutorials*
 
-* [CodeAcademy] (https://www.youtube.com/playlist?list=PLbLaohICnSGUx0zZ4ffxEzQvWEzxWH839) - 
-* [Jamie King] (https://www.youtube.com/playlist?list=PLRwVmtr-pp06qT6ckboaOhnm9FxmzHpbY)
-* [MakingGamesWithBen] (https://www.youtube.com/playlist?list=PLSPw4ASQYyymu3PfG9gxywSPghnSMiOAW)
-* [SIGGRAPH] (https://www.youtube.com/user/ACMSIGGRAPH/playlists)
-* [thebennybox] (https://www.youtube.com/user/thebennybox/playlists)
-* [ThinMatrix] (https://www.youtube.com/user/ThinMatrix/playlists)
-* [sentdex] (https://www.youtube.com/playlist?list=PLQVvvaa0QuDdfGpqjkEJSeWKGCP31__wD) - Old OpenGL
+* [CodeAcademy] (https://www.youtube.com/playlist?list=PLbLaohICnSGUx0zZ4ffxEzQvWEzxWH839) - Several tutorial videos about modern OpenGL and rendering techniques.
+* [Jamie King] (https://www.youtube.com/playlist?list=PLRwVmtr-pp06qT6ckboaOhnm9FxmzHpbY) - Compreheensive videos tutorial about modern OpenGL and Qt.
+* [MakingGamesWithBen] (https://www.youtube.com/playlist?list=PLSPw4ASQYyymu3PfG9gxywSPghnSMiOAW) - Video tutorials (step-by-step) about OpenGL and game development.
+* [SIGGRAPH] (https://www.youtube.com/user/ACMSIGGRAPH/playlists) - Popular conference about computer graphics.
+* [thebennybox] (https://www.youtube.com/user/thebennybox/playlists) - Videos tutorials about OpenGL and game development.
+* [ThinMatrix] (https://www.youtube.com/user/ThinMatrix/playlists) - Video tutorials about OpenGL and game development using Java.
+* [sentdex] (https://www.youtube.com/playlist?list=PLQVvvaa0QuDdfGpqjkEJSeWKGCP31__wD) - Videos tutorials about OpenGL (immediate mode) using Python.
 
 ## References
 
 *OpenGL references*
 
-* [Alternative OpenGL Documentation] (http://docs.gl)
-* [Main OpenGL Documentation](https://www.opengl.org/sdk/docs)
-* [OpenGL 4.3 Cheat Sheet] (https://www.khronos.org/files/opengl43-quick-reference-card.pdf)
-* [OpenGL API Tables] (http://web.eecs.umich.edu/~sugih/courses/eecs487/common/notes/APITables.xml)
-* [OpenGL Wiki] (https://www.opengl.org/wiki/Main_Page)
+* [docs.GL] (http://docs.gl) - docs.GL is an alternative documentation for OpenGL.
+* [OpenGL Docs](https://www.opengl.org/sdk/docs) - Official documentation website.
+* [OpenGL 4.3 Cheat Sheet] (https://www.khronos.org/files/opengl43-quick-reference-card.pdf) - Quick reference card of OpenGL 4.3 commands and syntax.
+* [OpenGL API Tables] (http://web.eecs.umich.edu/~sugih/courses/eecs487/common/notes/APITables.xml) - Quick reference of API's for several OpenGL and GLSL versions.
+* [OpenGL Wiki] (https://www.opengl.org/wiki/Main_Page) - Official OpenGL wiki.
 
 ## Books
 
