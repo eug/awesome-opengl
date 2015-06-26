@@ -39,7 +39,8 @@ A curated list of awesome OpenGL libraries, debuggers and resources. Inspired by
 * [gDEBugger] (http://www.gremedy.com) - gDEBugger is an advanced OpenGL and OpenCL Debugger, Profiler and Memory Analyzer.
 * [NVIDIA Nsight] (https://developer.nvidia.com/nvidia-nsight-visual-studio-edition) - Build, Debug, Profile and Trace heterogeneous compute and graphics applications.
 * [vogl] (https://github.com/ValveSoftware/vogl) - OpenGL capture and playback debugger developed by Valve.
-
+* [CodeXL](http://developer.amd.com/tools-and-sdks/opencl-zone/codexl/) AMD's OpenGL debugger and profiler. It's the most recent version of gDEBugger.
+* [Intel-GPA](https://software.intel.com/en-us/gpa) Intel's Opengl Graphics Performance Analyzer.
 ## Websites
 
 *OpenGL related websites*
