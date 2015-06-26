@@ -18,11 +18,11 @@ A curated list of awesome OpenGL libraries, debuggers and resources. Inspired by
 * [Bullet] (http://bulletphysics.org/wordpress) - Bullet 3D library provides state of the art collision detection, soft body and rigid body dynamics.
 * [DevIL] (https://github.com/DentonW/DevIL) - DevIL is a cross-platform image library utilizing a simple syntax to handle a variety of images with ease.
 * [freeGLUT] (http://freeglut.sourceforge.net) - freeGLUT allows to create and manage windows containing OpenGL contexts and also read the mouse, keyboard and joystick functions.
-* [GLEW] (http://glew.sourceforge.net) - GLEW is a cross-platform to load OpenGL extensions.
+* [GLEW] (http://glew.sourceforge.net) - GLEW is a cross-platform library to load OpenGL extensions.
 * [GLFW] (http://www.glfw.org) - GLFW is library for creating windows with OpenGL contexts and receiving input and events.
 * [glm] (http://glm.g-truc.net/0.9.6/index.html) - glm is a mathematics library for graphics software based on the GLSL specifications.
 * [Magnum] (https://github.com/mosra/magnum) - Magnum is 2D/3D graphics engine written in C++11/C++14 and modern OpenGL.
-* [Newton] (http://newtondynamics.com/forum/newton.php) - Newton Dynamics is a cross-platform life-like physics 
+* [Newton] (http://newtondynamics.com/forum/newton.php) - Newton Dynamics is a cross-platform life-like physics.
 * [OGLplus] (http://oglplus.org) - OGLplus is a collection of libraries which implement an object-oriented facade over the OpenGL.
 * [SDL] (http://www.libsdl.org) - SDL is a library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D.
 * [SFML] (http://www.sfml-dev.org) - SFML provides a simple interface to ease the development of games and multimedia applications.
@@ -31,13 +31,14 @@ A curated list of awesome OpenGL libraries, debuggers and resources. Inspired by
 
 ## Debug
 
-*Debugging libraries*
+*Debugging and profiling libraries*
 
 * [apitrace] (http://apitrace.github.io) - Tools for tracing OpenGL, Direct3D, and other graphics APIs.
-* [CodeXL](http://developer.amd.com/tools-and-sdks/opencl-zone/codexl/) AMD's OpenGL debugger and profiler. It's the most recent version of gDEBugger.
+* [CodeXL](http://developer.amd.com/tools-and-sdks/opencl-zone/codexl/) - AMD's OpenGL debugger and profiler. It's the most recent version of gDEBugger.
+* [gl3w] (https://github.com/skaslev/gl3w) - A simple OpenGL core profile loading.
 * [GL-SL Debugger] (http://glsl-debugger.github.io) - GLSL-Debugger is a tool for debugging OpenGL programs.
 * [GLIntercept] (https://github.com/dtrebilco/glintercept) - GLIntercept is a OpenGL function call interceptor for Windows.
-* [Intel-GPA](https://software.intel.com/en-us/gpa) Intel's OpenGL Graphics Performance Analyzer.
+* [Intel-GPA](https://software.intel.com/en-us/gpa) - Intel's OpenGL Graphics Performance Analyzer.
 * [NVIDIA Nsight] (https://developer.nvidia.com/nvidia-nsight-visual-studio-edition) - Build, Debug, Profile and Trace heterogeneous compute and graphics applications.
 * [vogl] (https://github.com/ValveSoftware/vogl) - OpenGL capture and playback debugger developed by Valve.
 
@@ -105,3 +106,5 @@ A curated list of awesome OpenGL libraries, debuggers and resources. Inspired by
 * [(2011) A trip through the graphics pipeline] (https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index)
 * [(2010) What is OpenGL?] (http://duriansoftware.com/joe/An-intro-to-modern-OpenGL.-Chapter-1:-The-Graphics-Pipeline.html)
 
+## Contributing
+Please see [CONTRIBUTING](https://github.com/eug/awesome-opengl/blob/master/CONTRIBUTING.md) for details.
