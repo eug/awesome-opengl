@@ -73,10 +73,12 @@ A curated list of awesome OpenGL libraries, debuggers and resources. Inspired by
 *OpenGL references*
 
 * [docs.GL] (http://docs.gl) - docs.GL is an alternative documentation for OpenGL.
+* [glad] (http://glad.dav1d.de/) - glad is a multi-language GL/GLES/EGL/GLX/WGL loader-generator based on the official specs.
 * [OpenGL Docs](https://www.opengl.org/sdk/docs) - Official documentation website.
 * [OpenGL 4.3 Cheat Sheet] (https://www.khronos.org/files/opengl43-quick-reference-card.pdf) - Quick reference card of OpenGL 4.3 commands and syntax.
 * [OpenGL API Tables] (http://web.eecs.umich.edu/~sugih/courses/eecs487/common/notes/APITables.xml) - Quick reference of API's for several OpenGL and GLSL versions.
 * [OpenGL Wiki] (https://www.opengl.org/wiki/Main_Page) - Official OpenGL wiki.
+
 
 ## Books
 
