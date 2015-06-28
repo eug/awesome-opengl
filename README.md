@@ -18,6 +18,7 @@ A curated list of awesome OpenGL libraries, debuggers and resources. Inspired by
 * [Bullet] (http://bulletphysics.org/wordpress) - Bullet 3D library provides state of the art collision detection, soft body and rigid body dynamics.
 * [DevIL] (https://github.com/DentonW/DevIL) - DevIL is a cross-platform image library utilizing a simple syntax to handle a variety of images with ease.
 * [freeGLUT] (http://freeglut.sourceforge.net) - freeGLUT allows to create and manage windows containing OpenGL contexts and also read the mouse, keyboard and joystick functions.
+* [GamePlay3D] (http://www.gameplay3d.io/) - GamePlay is a free, open-source, cross-platform, 2D + 3D game framework. It is aimed towards indie game developers who are creating desktop and mobile games.
 * [GLEW] (http://glew.sourceforge.net) - GLEW is a cross-platform library to load OpenGL extensions.
 * [GLFW] (http://www.glfw.org) - GLFW is library for creating windows with OpenGL contexts and receiving input and events.
 * [glm] (http://glm.g-truc.net/0.9.6/index.html) - glm is a mathematics library for graphics software based on the GLSL specifications.
