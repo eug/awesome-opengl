@@ -14,9 +14,9 @@ A curated list of awesome OpenGL libraries, debuggers and resources. Inspired by
 
 *Useful libraries for OpenGL applications*
 
-* [assimp] (http://assimp.sourceforge.net) - assimp is a portable library to import various 3D model formats in a uniform manner.
-* [Bullet] (http://bulletphysics.org/wordpress) - Bullet 3D library provides state of the art collision detection, soft body and rigid body dynamics.
-* [DevIL] (https://github.com/DentonW/DevIL) - DevIL is a cross-platform image library utilizing a simple syntax to handle a variety of images with ease.
+* [assimp] (http://assimp.sourceforge.net) - A portable library to import 3D models in a uniform manner.
+* [Bullet] (http://bulletphysics.org/wordpress) - It provides state of the art collision detection, soft body and rigid body dynamics.
+* [DevIL] (https://github.com/DentonW/DevIL) - A full featured cross-platform image library.
 * [freeGLUT] (http://freeglut.sourceforge.net) - freeGLUT allows to create and manage windows containing OpenGL contexts and also read the mouse, keyboard and joystick functions.
 * [GLEW] (http://glew.sourceforge.net) - GLEW is a cross-platform library to load OpenGL extensions.
 * [GLFW] (http://www.glfw.org) - GLFW is library for creating windows with OpenGL contexts and receiving input and events.
@@ -24,7 +24,7 @@ A curated list of awesome OpenGL libraries, debuggers and resources. Inspired by
 * [Magnum] (https://github.com/mosra/magnum) - Magnum is 2D/3D graphics engine written in C++11/C++14 and modern OpenGL.
 * [Newton] (http://newtondynamics.com/forum/newton.php) - Newton Dynamics is a cross-platform life-like physics.
 * [OGLplus] (http://oglplus.org) - OGLplus is a collection of libraries which implement an object-oriented facade over the OpenGL.
-* [SDL] (http://www.libsdl.org) - SDL is a library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D.
+* [SDL] (http://www.libsdl.org) - SDL is a library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware.
 * [SFML] (http://www.sfml-dev.org) - SFML provides a simple interface to ease the development of games and multimedia applications.
 * [SOIL] (http://www.lonesock.net/soil.html) - SOIL is a tiny C library used primarily for uploading textures into OpenGL.
 * [SOIL2] (https://bitbucket.org/SpartanJ/soil2) - SOIL2 is a fork of SOIL that provides new features and a improved OpenGL API support.
@@ -38,9 +38,9 @@ A curated list of awesome OpenGL libraries, debuggers and resources. Inspired by
 * [CodeXL](http://developer.amd.com/tools-and-sdks/opencl-zone/codexl/) - AMD's OpenGL debugger and profiler. It's the most recent version of gDEBugger.
 * [gl3w] (https://github.com/skaslev/gl3w) - A simple OpenGL core profile loading.
 * [GL-SL Debugger] (http://glsl-debugger.github.io) - GLSL-Debugger is a tool for debugging OpenGL programs.
-* [GLIntercept] (https://github.com/dtrebilco/glintercept) - GLIntercept is a OpenGL function call interceptor for Windows.
+* [GLIntercept] (https://github.com/dtrebilco/glintercept) - An OpenGL function call interceptor for Windows.
 * [Intel-GPA](https://software.intel.com/en-us/gpa) - Intel's OpenGL Graphics Performance Analyzer.
-* [NVIDIA Nsight] (https://developer.nvidia.com/nvidia-nsight-visual-studio-edition) - Build, Debug, Profile and Trace heterogeneous compute and graphics applications.
+* [NVIDIA® Nsight™] (https://developer.nvidia.com/nvidia-nsight-visual-studio-edition) - A development platform for graphics applications.
 * [vogl] (https://github.com/ValveSoftware/vogl) - OpenGL capture and playback debugger developed by Valve.
 
 ## Websites
@@ -74,7 +74,7 @@ A curated list of awesome OpenGL libraries, debuggers and resources. Inspired by
 *OpenGL references*
 
 * [docs.GL] (http://docs.gl) - docs.GL is an alternative documentation for OpenGL.
-* [glad] (http://glad.dav1d.de/) - glad is a multi-language GL/GLES/EGL/GLX/WGL loader-generator based on the official specs.
+* [glad] (http://glad.dav1d.de/) - glad is a multi-language loader-generator based on the official specs.
 * [OpenGL Docs](https://www.opengl.org/sdk/docs) - Official documentation website.
 * [OpenGL 4.3 Cheat Sheet] (https://www.khronos.org/files/opengl43-quick-reference-card.pdf) - Quick reference card of OpenGL 4.3 commands and syntax.
 * [OpenGL API Tables] (http://web.eecs.umich.edu/~sugih/courses/eecs487/common/notes/APITables.xml) - Quick reference of API's for several OpenGL and GLSL versions.
