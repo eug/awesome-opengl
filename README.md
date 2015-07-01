@@ -43,6 +43,13 @@ A curated list of awesome OpenGL libraries, debuggers and resources. Inspired by
 * [NVIDIA® Nsight™] (https://developer.nvidia.com/nvidia-nsight-visual-studio-edition) - A development platform for graphics applications.
 * [vogl] (https://github.com/ValveSoftware/vogl) - OpenGL capture and playback debugger developed by Valve.
 
+## GLSL Editors
+
+* [Shader Toy](https://www.shadertoy.com) - Most popular live editor for fragment shaders.
+* [GLSL Sandbox](http://glslsandbox.com) - Online live editor for fragment shaders.
+* [SHDR Editor](http://shdr.bkcore.com) - Shdr is a live GLSL shader editor, viewer and validator.
+* [GLSLbin](http://glslb.in) - glslbin is a fragment shader sandbox supporting glslify.
+
 ## Websites
 
 *OpenGL related websites*
