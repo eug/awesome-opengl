@@ -1,14 +1,53 @@
 # awesome-opengl
 A curated list of awesome OpenGL libraries, debuggers and resources. Inspired by awesome-... stuff.
 
-* [Libraries] (#libraries)
-* [Debug] (#debug)
-* [Websites] (#websites)
-* [Videos] (#videos)
+* [Articles] (#articles)
 * [Books] (#books)
+* [Debug] (#debug)
+* [Libraries] (#libraries)
+* [GLSL Editors] (#glsl-editors)
 * [References] (#references)
 * [Talks] (#talks)
-* [Articles] (#articles)
+* [Videos] (#videos)
+* [Websites] (#websites)
+
+
+## Articles
+
+*OpenGL articles (non-tutorials)*
+
+* [(2014) Ray tracing with OpenGL Compute Shaders] (https://github.com/LWJGL/lwjgl3-wiki/wiki/2.6.1.-Ray-tracing-with-OpenGL-Compute-Shaders-%28Part-I%29)
+* [(2014) Things that drive me nuts about OpenGL] (http://richg42.blogspot.com.au/2014/05/things-that-drive-me-nuts-about-opengl.html)
+* [(2011) A trip through the graphics pipeline] (https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index)
+* [(2010) What is OpenGL?] (http://duriansoftware.com/joe/An-intro-to-modern-OpenGL.-Chapter-1:-The-Graphics-Pipeline.html)
+
+
+## Books
+
+*Popular books about OpenGL*
+
+* [A Trip Down the Graphics Pipeline] (http://www.amazon.com/dp/1558603875)
+* [Computer Graphics: Principles and Practice] (http://www.amazon.com/dp/0321399528)
+* [Interactive Computer Graphics: A Top-Down Approach with Shader-Based OpenGL] (http://www.amazon.com/dp/0132545233)
+* [OpenGL Programming Guide: The Official Guide to Learning OpenGL] (http://www.amazon.com/dp/0321773039)
+* [OpenGL Shading Language] (http://www.amazon.com/dp/0321637631)
+* [OpenGL SuperBible: Comprehensive Tutorial and Reference] (http://www.amazon.com/dp/0321712617)
+* [Real-Time Rendering] (http://www.amazon.com/dp/1568814240)
+
+
+## Debug
+
+*Debugging and profiling libraries*
+
+* [apitrace] (http://apitrace.github.io) - Tools for tracing OpenGL, Direct3D, and other graphics APIs.
+* [CodeXL](http://developer.amd.com/tools-and-sdks/opencl-zone/codexl/) - AMD's OpenGL debugger and profiler. It's the most recent version of gDEBugger.
+* [gl3w] (https://github.com/skaslev/gl3w) - A simple OpenGL core profile loading.
+* [GL-SL Debugger] (http://glsl-debugger.github.io) - GLSL-Debugger is a tool for debugging OpenGL programs.
+* [GLIntercept] (https://github.com/dtrebilco/glintercept) - An OpenGL function call interceptor for Windows.
+* [Intel-GPA](https://software.intel.com/en-us/gpa) - Intel's OpenGL Graphics Performance Analyzer.
+* [NVIDIA® Nsight™] (https://developer.nvidia.com/nvidia-nsight-visual-studio-edition) - A development platform for graphics applications.
+* [vogl] (https://github.com/ValveSoftware/vogl) - OpenGL capture and playback debugger developed by Valve.
+
 
 ## Libraries
 
@@ -30,25 +69,49 @@ A curated list of awesome OpenGL libraries, debuggers and resources. Inspired by
 * [SOIL2] (https://bitbucket.org/SpartanJ/soil2) - SOIL2 is a fork of SOIL that provides new features and a improved OpenGL API support.
 * [stb] (https://github.com/nothings/stb) - Collection of helper libraries for graphics, 3D, audio and many more.
 
-## Debug
-
-*Debugging and profiling libraries*
-
-* [apitrace] (http://apitrace.github.io) - Tools for tracing OpenGL, Direct3D, and other graphics APIs.
-* [CodeXL](http://developer.amd.com/tools-and-sdks/opencl-zone/codexl/) - AMD's OpenGL debugger and profiler. It's the most recent version of gDEBugger.
-* [gl3w] (https://github.com/skaslev/gl3w) - A simple OpenGL core profile loading.
-* [GL-SL Debugger] (http://glsl-debugger.github.io) - GLSL-Debugger is a tool for debugging OpenGL programs.
-* [GLIntercept] (https://github.com/dtrebilco/glintercept) - An OpenGL function call interceptor for Windows.
-* [Intel-GPA](https://software.intel.com/en-us/gpa) - Intel's OpenGL Graphics Performance Analyzer.
-* [NVIDIA® Nsight™] (https://developer.nvidia.com/nvidia-nsight-visual-studio-edition) - A development platform for graphics applications.
-* [vogl] (https://github.com/ValveSoftware/vogl) - OpenGL capture and playback debugger developed by Valve.
 
 ## GLSL Editors
+
+*Online GLSL Editors*
 
 * [Shader Toy](https://www.shadertoy.com) - Most popular live editor for fragment shaders.
 * [GLSL Sandbox](http://glslsandbox.com) - Online live editor for fragment shaders.
 * [SHDR Editor](http://shdr.bkcore.com) - Shdr is a live GLSL shader editor, viewer and validator.
 * [GLSLbin](http://glslb.in) - glslbin is a fragment shader sandbox supporting glslify.
+
+
+## References
+
+*OpenGL references*
+
+* [docs.GL] (http://docs.gl) - docs.GL is an alternative documentation for OpenGL.
+* [glad] (http://glad.dav1d.de/) - glad is a multi-language loader-generator based on the official specs.
+* [OpenGL Docs](https://www.opengl.org/sdk/docs) - Official documentation website.
+* [OpenGL 4.3 Cheat Sheet] (https://www.khronos.org/files/opengl43-quick-reference-card.pdf) - Quick reference card of OpenGL 4.3 commands and syntax.
+* [OpenGL API Tables] (http://web.eecs.umich.edu/~sugih/courses/eecs487/common/notes/APITables.xml) - Quick reference of API's for several OpenGL and GLSL versions.
+* [OpenGL Wiki] (https://www.opengl.org/wiki/Main_Page) - Official OpenGL wiki.
+
+
+## Talks
+
+*OpenGL related talks*
+
+* [Beyond Porting: How Modern OpenGL Can Radically Reduce Driver Overhead](https://www.youtube.com/watch?v=-bCeNzgiJ8I) by **Cass Everitt, John McDonald** [51:13]
+* [Moving Your Games to OpenGL] (https://www.youtube.com/watch?v=45O7WTc6k2Y) by **Rich Geldreich, Dan Ginsburg, Peter Lohrmann, Jason Mitchell** [54:45]
+
+
+## Videos
+
+*OpenGL video tutorials*
+
+* [CodeAcademy] (https://www.youtube.com/playlist?list=PLbLaohICnSGUx0zZ4ffxEzQvWEzxWH839) - Several tutorial videos about modern OpenGL and rendering techniques.
+* [Jamie King] (https://www.youtube.com/playlist?list=PLRwVmtr-pp06qT6ckboaOhnm9FxmzHpbY) - Compreheensive videos tutorial about modern OpenGL and Qt.
+* [MakingGamesWithBen] (https://www.youtube.com/playlist?list=PLSPw4ASQYyymu3PfG9gxywSPghnSMiOAW) - Video tutorials (step-by-step) about OpenGL and game development.
+* [SIGGRAPH] (https://www.youtube.com/user/ACMSIGGRAPH/playlists) - Popular conference about computer graphics.
+* [thebennybox] (https://www.youtube.com/user/thebennybox/playlists) - Videos tutorials about OpenGL and game development.
+* [ThinMatrix] (https://www.youtube.com/user/ThinMatrix/playlists) - Video tutorials about OpenGL and game development using Java.
+* [sentdex] (https://www.youtube.com/playlist?list=PLQVvvaa0QuDdfGpqjkEJSeWKGCP31__wD) - Videos tutorials about OpenGL (immediate mode) using Python.
+
 
 ## Websites
 
@@ -63,58 +126,6 @@ A curated list of awesome OpenGL libraries, debuggers and resources. Inspired by
 * [OpenGL Tutorial - Alexander Overvoorde](https://open.gl)
 * [OpenGL Tutorial - Song Ho Ahn] (http://www.songho.ca/opengl)
 * [OpenGL Tutorial] (http://www.opengl-tutorial.org)
-
-## Videos
-
-*OpenGL video tutorials*
-
-* [CodeAcademy] (https://www.youtube.com/playlist?list=PLbLaohICnSGUx0zZ4ffxEzQvWEzxWH839) - Several tutorial videos about modern OpenGL and rendering techniques.
-* [Jamie King] (https://www.youtube.com/playlist?list=PLRwVmtr-pp06qT6ckboaOhnm9FxmzHpbY) - Compreheensive videos tutorial about modern OpenGL and Qt.
-* [MakingGamesWithBen] (https://www.youtube.com/playlist?list=PLSPw4ASQYyymu3PfG9gxywSPghnSMiOAW) - Video tutorials (step-by-step) about OpenGL and game development.
-* [SIGGRAPH] (https://www.youtube.com/user/ACMSIGGRAPH/playlists) - Popular conference about computer graphics.
-* [thebennybox] (https://www.youtube.com/user/thebennybox/playlists) - Videos tutorials about OpenGL and game development.
-* [ThinMatrix] (https://www.youtube.com/user/ThinMatrix/playlists) - Video tutorials about OpenGL and game development using Java.
-* [sentdex] (https://www.youtube.com/playlist?list=PLQVvvaa0QuDdfGpqjkEJSeWKGCP31__wD) - Videos tutorials about OpenGL (immediate mode) using Python.
-
-## References
-
-*OpenGL references*
-
-* [docs.GL] (http://docs.gl) - docs.GL is an alternative documentation for OpenGL.
-* [glad] (http://glad.dav1d.de/) - glad is a multi-language loader-generator based on the official specs.
-* [OpenGL Docs](https://www.opengl.org/sdk/docs) - Official documentation website.
-* [OpenGL 4.3 Cheat Sheet] (https://www.khronos.org/files/opengl43-quick-reference-card.pdf) - Quick reference card of OpenGL 4.3 commands and syntax.
-* [OpenGL API Tables] (http://web.eecs.umich.edu/~sugih/courses/eecs487/common/notes/APITables.xml) - Quick reference of API's for several OpenGL and GLSL versions.
-* [OpenGL Wiki] (https://www.opengl.org/wiki/Main_Page) - Official OpenGL wiki.
-
-
-## Books
-
-*Popular books about OpenGL*
-
-* [A Trip Down the Graphics Pipeline] (http://www.amazon.com/dp/1558603875)
-* [Computer Graphics: Principles and Practice] (http://www.amazon.com/dp/0321399528)
-* [Interactive Computer Graphics: A Top-Down Approach with Shader-Based OpenGL] (http://www.amazon.com/dp/0132545233)
-* [OpenGL Programming Guide: The Official Guide to Learning OpenGL] (http://www.amazon.com/dp/0321773039)
-* [OpenGL Shading Language] (http://www.amazon.com/dp/0321637631)
-* [OpenGL SuperBible: Comprehensive Tutorial and Reference] (http://www.amazon.com/dp/0321712617)
-* [Real-Time Rendering] (http://www.amazon.com/dp/1568814240)
-
-## Talks
-
-*OpenGL related talks*
-
-* [Beyond Porting: How Modern OpenGL Can Radically Reduce Driver Overhead](https://www.youtube.com/watch?v=-bCeNzgiJ8I) by **Cass Everitt, John McDonald** [51:13]
-* [Moving Your Games to OpenGL] (https://www.youtube.com/watch?v=45O7WTc6k2Y) by **Rich Geldreich, Dan Ginsburg, Peter Lohrmann, Jason Mitchell** [54:45]
-
-## Articles
-
-*OpenGL articles (non-tutorials)*
-
-* [(2014) Ray tracing with OpenGL Compute Shaders] (https://github.com/LWJGL/lwjgl3-wiki/wiki/2.6.1.-Ray-tracing-with-OpenGL-Compute-Shaders-%28Part-I%29)
-* [(2014) Things that drive me nuts about OpenGL] (http://richg42.blogspot.com.au/2014/05/things-that-drive-me-nuts-about-opengl.html)
-* [(2011) A trip through the graphics pipeline] (https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index)
-* [(2010) What is OpenGL?] (http://duriansoftware.com/joe/An-intro-to-modern-OpenGL.-Chapter-1:-The-Graphics-Pipeline.html)
 
 ## Contributing
 Please see [CONTRIBUTING](https://github.com/eug/awesome-opengl/blob/master/CONTRIBUTING.md) for details.
