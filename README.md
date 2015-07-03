@@ -4,8 +4,9 @@ A curated list of awesome OpenGL libraries, debuggers and resources. Inspired by
 * [Articles] (#articles)
 * [Books] (#books)
 * [Debug] (#debug)
-* [Libraries] (#libraries)
 * [GLSL Editors] (#glsl-editors)
+* [Libraries] (#libraries)
+* [Profile Loaders] (#profile-loaders)
 * [References] (#references)
 * [Talks] (#talks)
 * [Videos] (#videos)
@@ -41,12 +42,21 @@ A curated list of awesome OpenGL libraries, debuggers and resources. Inspired by
 
 * [apitrace] (http://apitrace.github.io) - Tools for tracing OpenGL, Direct3D, and other graphics APIs.
 * [CodeXL](http://developer.amd.com/tools-and-sdks/opencl-zone/codexl/) - AMD's OpenGL debugger and profiler. It's the most recent version of gDEBugger.
-* [gl3w] (https://github.com/skaslev/gl3w) - A simple OpenGL core profile loading.
 * [GL-SL Debugger] (http://glsl-debugger.github.io) - GLSL-Debugger is a tool for debugging OpenGL programs.
 * [GLIntercept] (https://github.com/dtrebilco/glintercept) - An OpenGL function call interceptor for Windows.
 * [Intel-GPA](https://software.intel.com/en-us/gpa) - Intel's OpenGL Graphics Performance Analyzer.
 * [NVIDIA® Nsight™] (https://developer.nvidia.com/nvidia-nsight-visual-studio-edition) - A development platform for graphics applications.
 * [vogl] (https://github.com/ValveSoftware/vogl) - OpenGL capture and playback debugger developed by Valve.
+
+
+## GLSL Editors
+
+*Online GLSL Editors*
+
+* [GLSL Sandbox](http://glslsandbox.com) - Online live editor for fragment shaders.
+* [GLSLbin](http://glslb.in) - glslbin is a fragment shader sandbox supporting glslify. 
+* [SHDR Editor](http://shdr.bkcore.com) - Shdr is a live GLSL shader editor, viewer and validator.
+* [Shader Toy](https://www.shadertoy.com) - Most popular live editor for fragment shaders.
 
 
 ## Libraries
@@ -57,7 +67,6 @@ A curated list of awesome OpenGL libraries, debuggers and resources. Inspired by
 * [Bullet] (http://bulletphysics.org/wordpress) - It provides state of the art collision detection, soft body and rigid body dynamics.
 * [DevIL] (https://github.com/DentonW/DevIL) - A full featured cross-platform image library.
 * [freeGLUT] (http://freeglut.sourceforge.net) - freeGLUT allows to create and manage windows containing OpenGL contexts and also read the mouse, keyboard and joystick functions.
-* [GLEW] (http://glew.sourceforge.net) - GLEW is a cross-platform library to load OpenGL extensions.
 * [GLFW] (http://www.glfw.org) - GLFW is library for creating windows with OpenGL contexts and receiving input and events.
 * [glm] (http://glm.g-truc.net/0.9.6/index.html) - glm is a mathematics library for graphics software based on the GLSL specifications.
 * [Magnum] (https://github.com/mosra/magnum) - Magnum is 2D/3D graphics engine written in C++11/C++14 and modern OpenGL.
@@ -70,14 +79,13 @@ A curated list of awesome OpenGL libraries, debuggers and resources. Inspired by
 * [stb] (https://github.com/nothings/stb) - Collection of helper libraries for graphics, 3D, audio and many more.
 
 
-## GLSL Editors
+## Profile Loaders
 
-*Online GLSL Editors*
+*Profile loaders for OpenGL*
 
-* [Shader Toy](https://www.shadertoy.com) - Most popular live editor for fragment shaders.
-* [GLSL Sandbox](http://glslsandbox.com) - Online live editor for fragment shaders.
-* [SHDR Editor](http://shdr.bkcore.com) - Shdr is a live GLSL shader editor, viewer and validator.
-* [GLSLbin](http://glslb.in) - glslbin is a fragment shader sandbox supporting glslify.
+* [glad](https://github.com/Dav1dde/glad) - A multi profile loader-generator based on the official specs.
+* [gl3w](https://github.com/skaslev/gl3w) - A simple OpenGL core profile loader.
+* [GLEW](http://glew.sourceforge.net) - A mature cross-platform library to load OpenGL extensions.
 
 
 ## References
@@ -85,7 +93,6 @@ A curated list of awesome OpenGL libraries, debuggers and resources. Inspired by
 *OpenGL references*
 
 * [docs.GL] (http://docs.gl) - docs.GL is an alternative documentation for OpenGL.
-* [glad] (http://glad.dav1d.de/) - glad is a multi-language loader-generator based on the official specs.
 * [OpenGL Docs](https://www.opengl.org/sdk/docs) - Official documentation website.
 * [OpenGL 4.3 Cheat Sheet] (https://www.khronos.org/files/opengl43-quick-reference-card.pdf) - Quick reference card of OpenGL 4.3 commands and syntax.
 * [OpenGL API Tables] (http://web.eecs.umich.edu/~sugih/courses/eecs487/common/notes/APITables.xml) - Quick reference of API's for several OpenGL and GLSL versions.
