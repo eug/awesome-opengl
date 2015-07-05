@@ -134,5 +134,11 @@ A curated list of awesome OpenGL libraries, debuggers and resources. Inspired by
 * [OpenGL Tutorial - Song Ho Ahn] (http://www.songho.ca/opengl)
 * [OpenGL Tutorial] (http://www.opengl-tutorial.org)
 
+## License
+    
+[![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+
 ## Contributing
 Please see [CONTRIBUTING](https://github.com/eug/awesome-opengl/blob/master/CONTRIBUTING.md) for details.
