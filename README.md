@@ -63,21 +63,18 @@ A curated list of awesome OpenGL libraries, debuggers and resources. Inspired by
 
 *Useful libraries for OpenGL applications*
 
-* [assimp] (http://assimp.sourceforge.net) - A portable library to import 3D models in a uniform manner.
-* [Bullet] (http://bulletphysics.org/wordpress) - It provides state of the art collision detection, soft body and rigid body dynamics.
-* [DevIL] (https://github.com/DentonW/DevIL) - A full featured cross-platform image library.
-* [freeGLUT] (http://freeglut.sourceforge.net) - freeGLUT allows to create and manage windows containing OpenGL contexts and also read the mouse, keyboard and joystick functions.
-* [GLFW] (http://www.glfw.org) - GLFW is library for creating windows with OpenGL contexts and receiving input and events.
-* [glm] (http://glm.g-truc.net/0.9.6/index.html) - glm is a mathematics library for graphics software based on the GLSL specifications.
-* [Magnum] (https://github.com/mosra/magnum) - Magnum is 2D/3D graphics engine written in C++11/C++14 and modern OpenGL.
-* [Newton] (http://newtondynamics.com/forum/newton.php) - Newton Dynamics is a cross-platform life-like physics.
-* [OGLplus] (http://oglplus.org) - OGLplus is a collection of libraries which implement an object-oriented facade over the OpenGL.
-* [SDL] (http://www.libsdl.org) - SDL is a library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware.
-* [SFML] (http://www.sfml-dev.org) - SFML provides a simple interface to ease the development of games and multimedia applications.
-* [SOIL] (http://www.lonesock.net/soil.html) - SOIL is a tiny C library used primarily for uploading textures into OpenGL.
-* [SOIL2] (https://bitbucket.org/SpartanJ/soil2) - SOIL2 is a fork of SOIL that provides new features and a improved OpenGL API support.
-* [stb] (https://github.com/nothings/stb) - Collection of helper libraries for graphics, 3D, audio and many more.
-
+* [assimp](http://assimp.sourceforge.net) - A portable library to import 3D models in a uniform manner.
+* [Bullet](http://bulletphysics.org/wordpress) - It provides state of the art collision detection, soft body and rigid body dynamics.
+* [freeGLUT](http://freeglut.sourceforge.net) - A mature library that allows to create/manage windows containing OpenGL contexts.
+* [GLFW](http://www.glfw.org) - A modern library for creating/interact windows with OpenGL contexts.
+* [glm](http://glm.g-truc.net/0.9.6/index.html) - A mathematics library for graphics software based on the GLSL specifications.
+* [Magnum](https://github.com/mosra/magnum) - Magnum is 2D/3D graphics engine for modern OpenGL.
+* [Newton](http://newtondynamics.com/forum/newton.php) - Newton Dynamics is a cross-platform life-like physics.
+* [OGLplus](http://oglplus.org) - A collection of libraries which implement an object-oriented facade over OpenGL.
+* [SDL](http://www.libsdl.org) - A library designed to provide low level access to multimedia and graphics hardware.
+* [SFML](http://www.sfml-dev.org) - A simple interface to ease the development of games and multimedia applications.
+* [SOIL](http://www.lonesock.net/soil.html) - A tiny C library used primarily for uploading textures into OpenGL. (see [SOIL2] (https://bitbucket.org/SpartanJ/soil2))
+* [stb](https://github.com/nothings/stb) - Collection of helper libraries for graphics, 3D, audio and many more.
 
 ## Profile Loaders
 
