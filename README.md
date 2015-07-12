@@ -54,8 +54,8 @@ A curated list of awesome OpenGL libraries, debuggers and resources. Inspired by
 *Online GLSL Editors*
 
 * [GLSL Sandbox](http://glslsandbox.com) - Online live editor for fragment shaders.
-* [GLSLbin](http://glslb.in) - glslbin is a fragment shader sandbox supporting glslify. 
-* [SHDR Editor](http://shdr.bkcore.com) - Shdr is a live GLSL shader editor, viewer and validator.
+* [GLSLbin](http://glslb.in) - A fragment shader sandbox supporting [glslify](https://github.com/stackgl/glslify).
+* [SHDR Editor](http://shdr.bkcore.com) - Live GLSL shader editor, viewer and validator.
 * [Shader Toy](https://www.shadertoy.com) - Most popular live editor for fragment shaders.
 
 
