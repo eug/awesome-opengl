@@ -120,17 +120,18 @@ A curated list of awesome OpenGL libraries, debuggers and resources. Inspired by
 
 ## Websites
 
-*OpenGL related websites*
+*OpenGL tutorial websites*
 
-* [Learn OpenGL] (http://learnopengl.com)
-* [Learning Modern 3D Graphics Programming] (http://web.archive.org/web/20150311211412/http://www.arcsynthesis.org/gltut)
-* [Light House 3D] (http://www.lighthouse3d.com/tutorials/glsl-core-tutorial)
-* [Modern OpenGL] (http://www.tomdalling.com/blog/category/modern-opengl)
-* [OpenGL Examples] (https://github.com/McNopper/OpenGL)
-* [OpenGL Step by Step] (http://ogldev.atspace.co.uk)
-* [OpenGL Tutorial - Alexander Overvoorde](https://open.gl)
-* [OpenGL Tutorial - Song Ho Ahn] (http://www.songho.ca/opengl)
-* [OpenGL Tutorial] (http://www.opengl-tutorial.org)
+* [Learn OpenGL](http://learnopengl.com) by **Joey de Vries**
+* [Learning Modern 3D Graphics Programming](http://web.archive.org/web/20150311211412/http://www.arcsynthesis.org/gltut) by **Jason L. McKesson**
+* [Light House 3D](http://www.lighthouse3d.com/tutorials/glsl-core-tutorial) by **Light House 3D**
+* [Modern OpenGL](http://www.tomdalling.com/blog/category/modern-opengl) by **Tom Dalling**
+* [OpenGL Examples](https://github.com/McNopper/OpenGL) by **Norbert Nopper**
+* [OpenGL Step by Step](http://ogldev.atspace.co.uk) by **Etay Meiri**
+* [OpenGL Tutorial](https://open.gl) by **Alexander Overvoorde**
+* [OpenGL Tutorial](http://antongerdelan.net/opengl/index.html) by **Anton Gerdelan**
+* [OpenGL Tutorial](http://www.opengl-tutorial.org) by **Bonder Wu**
+* [OpenGL Tutorial](http://www.songho.ca/opengl) by **Song Ho Ahn**
 
 ## Related lists
 
