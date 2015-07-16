@@ -27,13 +27,13 @@ A curated list of awesome OpenGL libraries, debuggers and resources. Inspired by
 
 *Popular books about OpenGL*
 
-* [A Trip Down the Graphics Pipeline] (http://www.amazon.com/dp/1558603875)
-* [Computer Graphics: Principles and Practice] (http://www.amazon.com/dp/0321399528)
-* [Interactive Computer Graphics: A Top-Down Approach with Shader-Based OpenGL] (http://www.amazon.com/dp/0132545233)
-* [OpenGL Programming Guide: The Official Guide to Learning OpenGL] (http://www.amazon.com/dp/0321773039)
-* [OpenGL Shading Language] (http://www.amazon.com/dp/0321637631)
-* [OpenGL SuperBible: Comprehensive Tutorial and Reference] (http://www.amazon.com/dp/0321712617)
-* [Real-Time Rendering] (http://www.amazon.com/dp/1568814240)
+* [A Trip Down the Graphics Pipeline](http://www.amazon.com/dp/1558603875) by **Jim Blinn**
+* [Computer Graphics](http://www.amazon.com/dp/0321399528) by **John F. Hughes, et al.**
+* [Interactive Computer Graphics](http://www.amazon.com/dp/0132545233) by **Edward Angel and Dave Shreiner**
+* [OpenGL Programming Guide](http://www.amazon.com/dp/0321773039) by **Dave Shreiner, et al.**
+* [OpenGL Shading Language](http://www.amazon.com/dp/0321637631) by **Randi J. Rost, et al.**
+* [OpenGL SuperBible](http://www.amazon.com/dp/0321712617) by **Richard S. Wright, et al.**
+* [Real-Time Rendering](http://www.amazon.com/dp/1568814240) by **Tomas Akenine-Moller, Eric Haines and Naty Hoffman**
 
 
 ## Debug
