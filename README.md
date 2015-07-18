@@ -101,7 +101,7 @@ A curated list of awesome OpenGL libraries, debuggers and resources. Inspired by
 ## Talks
 
 *OpenGL related talks*
-* [Approaching Zero Driver Overhead in OpenGL](http://gdcvault.com/play/1020791/) by **Cass Everitt, Tim Foley, John McDonald, Graham Sellers** [1:15:54] - [Slides](http://www.slideshare.net/CassEveritt/approaching-zero-driver-overhead) - [AMA Reddit](https://www.reddit.com/r/gamedev/comments/21mbo8/we_are_the_authors_of_approaching_zero_driver)
+* [Approaching Zero Driver Overhead in OpenGL](http://gdcvault.com/play/1020791/) - [Slides](http://www.slideshare.net/CassEveritt/approaching-zero-driver-overhead) - [AMA Reddit](https://www.reddit.com/r/gamedev/comments/21mbo8/we_are_the_authors_of_approaching_zero_driver) by **Cass Everitt, Tim Foley, John McDonald, Graham Sellers** [1:15:54]
 * [How Modern OpenGL Can Radically Reduce Driver Overhead](https://www.youtube.com/watch?v=-bCeNzgiJ8I) by **Cass Everitt, John McDonald** [51:13]
 * [Moving Your Games to OpenGL] (https://www.youtube.com/watch?v=45O7WTc6k2Y) by **Rich Geldreich, Dan Ginsburg, Peter Lohrmann, Jason Mitchell** [54:45]
 
