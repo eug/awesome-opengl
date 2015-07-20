@@ -30,6 +30,8 @@ A curated list of awesome OpenGL libraries, debuggers and resources. Inspired by
 * [A Trip Down the Graphics Pipeline](http://www.amazon.com/dp/1558603875) by **Jim Blinn**
 * [Computer Graphics](http://www.amazon.com/dp/0321399528) by **John F. Hughes, et al.**
 * [Interactive Computer Graphics](http://www.amazon.com/dp/0132545233) by **Edward Angel and Dave Shreiner**
+* [OpenGL ES 3.0 Programming Guide](http://www.amazon.com/dp/0321933885) by **Dan Ginsburg, et al.**
+* [OpenGL Insights](http://www.amazon.com/dp/1439893764) by **Patrick Cozzi, Christophe Riccio**
 * [OpenGL Programming Guide](http://www.amazon.com/dp/0321773039) by **Dave Shreiner, et al.**
 * [OpenGL Shading Language](http://www.amazon.com/dp/0321637631) by **Randi J. Rost, et al.**
 * [OpenGL SuperBible](http://www.amazon.com/dp/0321712617) by **Richard S. Wright, et al.**
