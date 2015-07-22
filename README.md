@@ -82,11 +82,11 @@ A curated list of awesome OpenGL libraries, debuggers and resources. Inspired by
 
 *Profile loaders for OpenGL*
 
-* [glad](https://github.com/Dav1dde/glad) - A multi profile loader-generator based on the official specs.
-* [glLoadGen](https://bitbucket.org/alfonse/glloadgen/wiki/Home) - A multi profile loader-generator written in Lua.
 * [gl3w](https://github.com/skaslev/gl3w) - A simple OpenGL core profile loader.
-* [glbindify](https://github.com/nnesse/glbindify) - A commmand line tool to generate C bindings for OpenGL, wgl, and glX
+* [glad](https://github.com/Dav1dde/glad) - A multi profile loader-generator based on the official specs.
+* [glbindify](https://github.com/nnesse/glbindify) - A commmand line tool to generate C bindings for OpenGL, wgl, and glX.
 * [GLEW](http://glew.sourceforge.net) - A mature cross-platform library to load OpenGL extensions.
+* [glLoadGen](https://bitbucket.org/alfonse/glloadgen/wiki/Home) - A multi profile loader-generator written in Lua.
 
 
 ## References
@@ -94,9 +94,9 @@ A curated list of awesome OpenGL libraries, debuggers and resources. Inspired by
 *OpenGL references*
 
 * [docs.GL] (http://docs.gl) - docs.GL is an alternative documentation for OpenGL.
-* [OpenGL Docs](https://www.opengl.org/sdk/docs) - Official documentation website.
-* [OpenGL 4.3 Cheat Sheet] (https://www.khronos.org/files/opengl43-quick-reference-card.pdf) - Quick reference card of OpenGL 4.3 commands and syntax.
 * [OpenGL API Tables] (http://web.eecs.umich.edu/~sugih/courses/eecs487/common/notes/APITables.xml) - Quick reference of API's for several OpenGL and GLSL versions.
+* [OpenGL Cheat Sheet] (https://www.khronos.org/files/opengl43-quick-reference-card.pdf) - Quick reference card of OpenGL 4.3 commands and syntax.
+* [OpenGL Docs](https://www.opengl.org/sdk/docs) - Official documentation website.
 * [OpenGL Wiki] (https://www.opengl.org/wiki/Main_Page) - Official OpenGL wiki.
 
 
@@ -113,7 +113,7 @@ A curated list of awesome OpenGL libraries, debuggers and resources. Inspired by
 *OpenGL video tutorials*
 
 * [CodeAcademy] (https://www.youtube.com/playlist?list=PLbLaohICnSGUx0zZ4ffxEzQvWEzxWH839) - Several tutorial videos about modern OpenGL and rendering techniques.
-* [Jamie King] (https://www.youtube.com/playlist?list=PLRwVmtr-pp06qT6ckboaOhnm9FxmzHpbY) - Compreheensive videos tutorial about modern OpenGL and Qt.
+* [Jamie King] (https://www.youtube.com/playlist?list=PLRwVmtr-pp06qT6ckboaOhnm9FxmzHpbY) - Compreheensive tutorials about modern OpenGL and Qt.
 * [MakingGamesWithBen] (https://www.youtube.com/playlist?list=PLSPw4ASQYyymu3PfG9gxywSPghnSMiOAW) - Video tutorials (step-by-step) about OpenGL and game development.
 * [SIGGRAPH] (https://www.youtube.com/user/ACMSIGGRAPH/playlists) - Popular conference about computer graphics.
 * [thebennybox] (https://www.youtube.com/user/thebennybox/playlists) - Videos tutorials about OpenGL and game development.
