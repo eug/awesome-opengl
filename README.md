@@ -28,15 +28,15 @@ A curated list of awesome OpenGL libraries, debuggers and resources. Inspired by
 
 *Popular books about OpenGL*
 
-* [A Trip Down the Graphics Pipeline](http://www.amazon.com/dp/1558603875) by **Jim Blinn**
-* [Computer Graphics](http://www.amazon.com/dp/0321399528) by **John F. Hughes, et al.**
-* [Interactive Computer Graphics](http://www.amazon.com/dp/0132545233) by **Edward Angel and Dave Shreiner**
-* [OpenGL ES 3.0 Programming Guide](http://www.amazon.com/dp/0321933885) by **Dan Ginsburg, et al.**
-* [OpenGL Insights](http://www.amazon.com/dp/1439893764) by **Patrick Cozzi, Christophe Riccio**
-* [OpenGL Programming Guide](http://www.amazon.com/dp/0321773039) by **Dave Shreiner, et al.**
-* [OpenGL Shading Language](http://www.amazon.com/dp/0321637631) by **Randi J. Rost, et al.**
-* [OpenGL SuperBible](http://www.amazon.com/dp/0321712617) by **Richard S. Wright, et al.**
-* [Real-Time Rendering](http://www.amazon.com/dp/1568814240) by **Tomas Akenine-Moller, Eric Haines and Naty Hoffman**
+* [A Trip Down the Graphics Pipeline](http://www.amazon.com/dp/1558603875) by **Jim Blinn** - A popular book that contains wealth information about the graphics pipeline, and of the best sources to learn the core concepts of Computer Graphics.
+* [Computer Graphics](http://www.amazon.com/dp/0321399528) by **John F. Hughes, et al.** - Computer Graphics is indeed a must for anyone being involved in the design and implementation of Computer Graphics algorithms. However, this is not a OpenGL focused book, but contains valuable demonstrations of the technology.
+* [Interactive Computer Graphics](http://www.amazon.com/dp/0132545233) by **Edward Angel and Dave Shreiner** - A very dense book, covering several aspects at once. It pro provides several examples using OpenGL, but if you are trying to learn OpenGL on your own you might not find this helpful. 
+* [OpenGL ES 3.0 Programming Guide](http://www.amazon.com/dp/0321933885) by **Dan Ginsburg, et al.** - It presents all the necessary information to use the OpenGL ES 3.0 API in a clear manner.
+* [OpenGL Insights](http://www.amazon.com/dp/1439893764) by **Patrick Cozzi, Christophe Riccio** - A rich and comprehensive resource to learn techniques and tips, covering several advanced topics of OpenGL.
+* [OpenGL Programming Guide](http://www.amazon.com/dp/0321773039) by **Dave Shreiner, et al.** - This book does a good job covering the basics and providing clear reference of the API.
+* [OpenGL Shading Language](http://www.amazon.com/dp/0321637631) by **Randi J. Rost, et al.** - A very clear and well written book about Shading Language. Also, it provides several explanations of writing shaders.
+* [OpenGL SuperBible](http://www.amazon.com/dp/0321712617) by **Richard S. Wright, et al.** - This book it cover the basic concept of computer graphics and clear examples using OpenGL. Definitely, it is a must for beginners.
+* [Real-Time Rendering](http://www.amazon.com/dp/1568814240) by **Tomas Akenine-Moller, Eric Haines and Naty Hoffman** - This book does a good job at explaining concepts for game engine, basis for game client programming as well as the necessary knowledge for understanding DirectX and OpenGL.
 
 
 ## Debug
