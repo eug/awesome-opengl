@@ -77,7 +77,6 @@ A curated list of awesome OpenGL libraries, debuggers and resources. Inspired by
 * [SDL](http://www.libsdl.org) - A library designed to provide low level access to multimedia and graphics hardware.
 * [SFML](http://www.sfml-dev.org) - A simple interface to ease the development of games and multimedia applications.
 * [SOIL](http://www.lonesock.net/soil.html) - A tiny C library used primarily for uploading textures into OpenGL. (see [SOIL2] (https://bitbucket.org/SpartanJ/soil2))
-* [stb](https://github.com/nothings/stb) - Collection of helper libraries for graphics, 3D, audio and many more.
 
 ## Profile Loaders
 
