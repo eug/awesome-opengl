@@ -85,6 +85,7 @@ A curated list of awesome OpenGL libraries, debuggers and resources. Inspired by
 * [gl3w](https://github.com/skaslev/gl3w) - A simple OpenGL core profile loader.
 * [glad](https://github.com/Dav1dde/glad) - A multi profile loader-generator based on the official specs.
 * [glbindify](https://github.com/nnesse/glbindify) - A commmand line tool to generate C bindings for OpenGL, wgl, and glX.
+* [glbinding](https://github.com/cginternals/glbinding) - A profile loader leveraging C++11 features to provide type safety.
 * [GLEW](http://glew.sourceforge.net) - A mature cross-platform library to load OpenGL extensions.
 * [glLoadGen](https://bitbucket.org/alfonse/glloadgen/wiki/Home) - A multi profile loader-generator written in Lua.
 
