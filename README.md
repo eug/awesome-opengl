@@ -72,6 +72,7 @@ A curated list of awesome OpenGL libraries, debuggers and resources. Inspired by
 * [GLFW](http://www.glfw.org) - A modern library for creating/interact windows with OpenGL contexts.
 * [glm](http://glm.g-truc.net/0.9.6/index.html) - A mathematics library for graphics software based on the GLSL specifications.
 * [Magnum](https://github.com/mosra/magnum) - Magnum is 2D/3D graphics engine for modern OpenGL.
+* [MathFu](http://google.github.io/mathfu/) - A C++ math library developed primarily for games focused on simplicity and efficiency.
 * [Newton](http://newtondynamics.com/forum/newton.php) - Newton Dynamics is a cross-platform life-like physics.
 * [OGLplus](http://oglplus.org) - A collection of libraries which implement an object-oriented facade over OpenGL.
 * [SDL](http://www.libsdl.org) - A library designed to provide low level access to multimedia and graphics hardware.
