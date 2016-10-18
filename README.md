@@ -10,6 +10,7 @@ A curated list of awesome OpenGL libraries, debuggers and resources. Inspired by
 * [Profile Loaders] (#profile-loaders)
 * [References] (#references)
 * [Talks] (#talks)
+* [Tools] (#tools)
 * [Videos] (#videos)
 * [Websites] (#websites)
 
@@ -110,6 +111,13 @@ A curated list of awesome OpenGL libraries, debuggers and resources. Inspired by
 * [Moving Your Games to OpenGL] (https://www.youtube.com/watch?v=45O7WTc6k2Y) by **Rich Geldreich, Dan Ginsburg, Peter Lohrmann, Jason Mitchell** [54:45]
 
 
+## Tools
+
+*Improve your productivity*
+
+* [OpenGL color converter] (http://openglcolor.levelingup.de/) - Converts HEX code or RGB to OpenGL color.
+
+
 ## Videos
 
 *OpenGL video tutorials*
@@ -131,6 +139,7 @@ A curated list of awesome OpenGL libraries, debuggers and resources. Inspired by
 * [Learning Modern 3D Graphics Programming](http://alfonse.bitbucket.org/oldtut/) by **Jason L. McKesson**
 * [Light House 3D](http://www.lighthouse3d.com/tutorials/glsl-core-tutorial) by **Light House 3D**
 * [Modern OpenGL](http://www.tomdalling.com/blog/category/modern-opengl) by **Tom Dalling**
+* [OpenGL Color Converter](http://openglcolor.levelingup.de/) by **Marcel Peters**
 * [OpenGL Examples](https://github.com/McNopper/OpenGL) by **Norbert Nopper**
 * [OpenGL Step by Step](http://ogldev.atspace.co.uk) by **Etay Meiri**
 * [OpenGL Tutorial](https://open.gl) by **Alexander Overvoorde**
