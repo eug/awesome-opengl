@@ -139,7 +139,6 @@ A curated list of awesome OpenGL libraries, debuggers and resources. Inspired by
 * [Learning Modern 3D Graphics Programming](http://alfonse.bitbucket.org/oldtut/) by **Jason L. McKesson**
 * [Light House 3D](http://www.lighthouse3d.com/tutorials/glsl-core-tutorial) by **Light House 3D**
 * [Modern OpenGL](http://www.tomdalling.com/blog/category/modern-opengl) by **Tom Dalling**
-* [OpenGL Color Converter](http://openglcolor.levelingup.de/) by **Marcel Peters**
 * [OpenGL Examples](https://github.com/McNopper/OpenGL) by **Norbert Nopper**
 * [OpenGL Step by Step](http://ogldev.atspace.co.uk) by **Etay Meiri**
 * [OpenGL Tutorial](https://open.gl) by **Alexander Overvoorde**
