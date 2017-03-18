@@ -2,16 +2,16 @@
 
 A curated list of awesome OpenGL libraries, debuggers and resources. Inspired by awesome-... stuff.
 
-* [Articles] (#articles)
-* [Books] (#books)
-* [Debug] (#debug)
-* [GLSL Editors] (#glsl-editors)
-* [Libraries] (#libraries)
-* [Profile Loaders] (#profile-loaders)
-* [References] (#references)
-* [Talks] (#talks)
-* [Videos] (#videos)
-* [Websites] (#websites)
+* [Articles](#articles)
+* [Books](#books)
+* [Debug](#debug)
+* [GLSL Editors](#glsl-editors)
+* [Libraries](#libraries)
+* [Profile Loaders](#profile-loaders)
+* [References](#references)
+* [Talks](#talks)
+* [Videos](#videos)
+* [Websites](#websites)
 
 
 ## Articles
@@ -43,13 +43,13 @@ A curated list of awesome OpenGL libraries, debuggers and resources. Inspired by
 
 *Debugging and profiling libraries*
 
-* [apitrace] (http://apitrace.github.io) - Tools for tracing OpenGL, Direct3D, and other graphics APIs.
+* [apitrace](http://apitrace.github.io) - Tools for tracing OpenGL, Direct3D, and other graphics APIs.
 * [CodeXL](http://developer.amd.com/tools-and-sdks/opencl-zone/codexl/) - AMD's OpenGL debugger and profiler. It's the most recent version of gDEBugger.
-* [GL-SL Debugger] (http://glsl-debugger.github.io) - GLSL-Debugger is a tool for debugging OpenGL programs.
-* [GLIntercept] (https://github.com/dtrebilco/glintercept) - An OpenGL function call interceptor for Windows.
+* [GL-SL Debugger](http://glsl-debugger.github.io) - GLSL-Debugger is a tool for debugging OpenGL programs.
+* [GLIntercept](https://github.com/dtrebilco/glintercept) - An OpenGL function call interceptor for Windows.
 * [Intel-GPA](https://software.intel.com/en-us/gpa) - Intel's OpenGL Graphics Performance Analyzer.
-* [NVIDIA® Nsight™] (https://developer.nvidia.com/nvidia-nsight-visual-studio-edition) - A development platform for graphics applications.
-* [vogl] (https://github.com/ValveSoftware/vogl) - OpenGL capture and playback debugger developed by Valve.
+* [NVIDIA® Nsight™](https://developer.nvidia.com/nvidia-nsight-visual-studio-edition) - A development platform for graphics applications.
+* [vogl](https://github.com/ValveSoftware/vogl) - OpenGL capture and playback debugger developed by Valve.
 
 
 ## GLSL Editors
@@ -95,9 +95,9 @@ A curated list of awesome OpenGL libraries, debuggers and resources. Inspired by
 
 *OpenGL references*
 
-* [docs.GL] (http://docs.gl) - docs.GL is an alternative documentation for OpenGL.
-* [OpenGL API Tables] (http://web.eecs.umich.edu/~sugih/courses/eecs487/common/notes/APITables.xml) - Quick reference of API's for several OpenGL and GLSL versions.
-* [OpenGL Cheat Sheet] (https://www.khronos.org/files/opengl43-quick-reference-card.pdf) - Quick reference card of OpenGL 4.3 commands and syntax.
+* [docs.GL](http://docs.gl) - docs.GL is an alternative documentation for OpenGL.
+* [OpenGL API Tables](http://web.eecs.umich.edu/~sugih/courses/eecs487/common/notes/APITables.xml) - Quick reference of API's for several OpenGL and GLSL versions.
+* [OpenGL Cheat Sheet](https://www.khronos.org/files/opengl43-quick-reference-card.pdf) - Quick reference card of OpenGL 4.3 commands and syntax.
 * [OpenGL Docs](https://www.opengl.org/sdk/docs) - Official documentation website.
 * [OpenGL Wiki] (https://www.opengl.org/wiki/Main_Page) - Official OpenGL wiki.
 
@@ -107,21 +107,21 @@ A curated list of awesome OpenGL libraries, debuggers and resources. Inspired by
 *OpenGL related talks*
 * [Approaching Zero Driver Overhead in OpenGL](http://gdcvault.com/play/1020791/) - [Slides](http://www.slideshare.net/CassEveritt/approaching-zero-driver-overhead) - [AMA Reddit](https://www.reddit.com/r/gamedev/comments/21mbo8/we_are_the_authors_of_approaching_zero_driver) by **Cass Everitt, Tim Foley, John McDonald, Graham Sellers** [1:15:54]
 * [How Modern OpenGL Can Radically Reduce Driver Overhead](https://www.youtube.com/watch?v=-bCeNzgiJ8I) by **Cass Everitt, John McDonald** [51:13]
-* [Moving Your Games to OpenGL] (https://www.youtube.com/watch?v=45O7WTc6k2Y) by **Rich Geldreich, Dan Ginsburg, Peter Lohrmann, Jason Mitchell** [54:45]
+* [Moving Your Games to OpenGL](https://www.youtube.com/watch?v=45O7WTc6k2Y) by **Rich Geldreich, Dan Ginsburg, Peter Lohrmann, Jason Mitchell** [54:45]
 
 
 ## Videos
 
 *OpenGL video tutorials*
 
-* [CodeAcademy] (https://www.youtube.com/playlist?list=PLbLaohICnSGUx0zZ4ffxEzQvWEzxWH839) - Several tutorial videos about modern OpenGL and rendering techniques.
-* [Jamie King] (https://www.youtube.com/playlist?list=PLRwVmtr-pp06qT6ckboaOhnm9FxmzHpbY) - Compreheensive tutorials about modern OpenGL and Qt.
-* [MakingGamesWithBen] (https://www.youtube.com/playlist?list=PLSPw4ASQYyymu3PfG9gxywSPghnSMiOAW) - Video tutorials (step-by-step) about OpenGL and game development.
-* [SIGGRAPH] (https://www.youtube.com/user/ACMSIGGRAPH/playlists) - Popular conference about computer graphics.
-* [thebennybox] (https://www.youtube.com/user/thebennybox/playlists) - Videos tutorials about OpenGL and game development.
-* [ThinMatrix] (https://www.youtube.com/user/ThinMatrix/playlists) - Video tutorials about OpenGL and game development using Java.
-* [sentdex] (https://www.youtube.com/playlist?list=PLQVvvaa0QuDdfGpqjkEJSeWKGCP31__wD) - Videos tutorials about OpenGL (immediate mode) using Python.
-* [Sonar Systems] (https://www.youtube.com/playlist?list=PLRtjMdoYXLf6zUMDJVRZYV-6g6n62vet8) - Learn about the new and modern OpenGL 3.0+.
+* [CodeAcademy](https://www.youtube.com/playlist?list=PLbLaohICnSGUx0zZ4ffxEzQvWEzxWH839) - Several tutorial videos about modern OpenGL and rendering techniques.
+* [Jamie King](https://www.youtube.com/playlist?list=PLRwVmtr-pp06qT6ckboaOhnm9FxmzHpbY) - Compreheensive tutorials about modern OpenGL and Qt.
+* [MakingGamesWithBen](https://www.youtube.com/playlist?list=PLSPw4ASQYyymu3PfG9gxywSPghnSMiOAW) - Video tutorials (step-by-step) about OpenGL and game development.
+* [SIGGRAPH](https://www.youtube.com/user/ACMSIGGRAPH/playlists) - Popular conference about computer graphics.
+* [thebennybox](https://www.youtube.com/user/thebennybox/playlists) - Videos tutorials about OpenGL and game development.
+* [ThinMatrix](https://www.youtube.com/user/ThinMatrix/playlists) - Video tutorials about OpenGL and game development using Java.
+* [sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdfGpqjkEJSeWKGCP31__wD) - Videos tutorials about OpenGL (immediate mode) using Python.
+* [Sonar Systems](https://www.youtube.com/playlist?list=PLRtjMdoYXLf6zUMDJVRZYV-6g6n62vet8) - Learn about the new and modern OpenGL 3.0+.
 
 ## Websites
 
@@ -143,7 +143,7 @@ A curated list of awesome OpenGL libraries, debuggers and resources. Inspired by
 *Similar awesome lists*
 * [awesome](https://github.com/sindresorhus/awesome) - A curated list of awesome lists.
 * [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources.
-* [awesome-webgl] (https://github.com/sjfricke/awesome-webgl) - A curated list of awesome WebGL libraries, resources and much more.
+* [awesome-webgl](https://github.com/sjfricke/awesome-webgl) - A curated list of awesome WebGL libraries, resources and much more.
 * [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) - A curated list of awesome Vulkan projects and ecosystem.
 * [gamedev](https://github.com/ellisonleao/magictools) - A awesome list about game development.
 * [graphics-resources](https://github.com/mattdesl/graphics-resources) - A list of graphic programming resources.
