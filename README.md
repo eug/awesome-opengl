@@ -54,8 +54,9 @@ A curated list of awesome OpenGL libraries, debuggers and resources. Inspired by
 
 ## GLSL Editors
 
-*Online GLSL Editors*
+*GLSL Editors*
 
+* [BALLS: The Badass Looker for Ludicrous Shaders](https://github.com/JesseTG/BALLS) - Desktop GLSL editor that aims to be the most flexible shader editor out there.
 * [GLSL Sandbox](http://glslsandbox.com) - Online live editor for fragment shaders.
 * [GLSLbin](http://glslb.in) - A fragment shader sandbox supporting [glslify](https://github.com/stackgl/glslify).
 * [SHDR Editor](http://shdr.bkcore.com) - Live GLSL shader editor, viewer and validator.
