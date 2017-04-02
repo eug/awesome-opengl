@@ -80,7 +80,7 @@ A curated list of awesome OpenGL libraries, debuggers and resources.
 * [OGLplus](http://oglplus.org) - Collection of libraries which implement an object-oriented facade over OpenGL.
 * [SDL](http://www.libsdl.org) - Designed to provide low level access to multimedia and graphics hardware.
 * [SFML](http://www.sfml-dev.org) - Simple interface to ease the development of games and multimedia applications.
-* [SOIL](http://www.lonesock.net/soil.html) - Tiny C library used primarily for uploading textures into OpenGL. (see [SOIL2] (https://bitbucket.org/SpartanJ/soil2))
+* [SOIL](http://www.lonesock.net/soil.html) - Tiny C library used primarily for uploading textures into OpenGL. (see [SOIL2](https://bitbucket.org/SpartanJ/soil2))
 
 ## Profile Loaders
 
