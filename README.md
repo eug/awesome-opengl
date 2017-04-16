@@ -73,7 +73,7 @@ A curated list of awesome OpenGL libraries, debuggers and resources.
 * [Bullet](http://bulletphysics.org/wordpress) - It provides state of the art collision detection, soft body and rigid body dynamics.
 * [freeGLUT](http://freeglut.sourceforge.net) - Mature library that allows to create/manage windows containing OpenGL contexts.
 * [GLFW](http://www.glfw.org) - Modern library for creating/interact windows with OpenGL contexts.
-* [GLFM](https://github.com/brackeen/glfm) - GLFM supplies an OpenGL ES context and input events for mobile devices and the web.
+* [GLFM](https://github.com/brackeen/glfm) - Supplies an OpenGL ES context and input events for mobile devices and the web.
 * [glm](http://glm.g-truc.net/0.9.6/index.html) - Mathematics library for graphics software based on the GLSL specifications.
 * [Magnum](https://github.com/mosra/magnum) - It is a 2D/3D graphics engine for modern OpenGL.
 * [MathFu](http://google.github.io/mathfu/) - C++ math library developed primarily for games focused on simplicity and efficiency.
