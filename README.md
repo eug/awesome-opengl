@@ -72,6 +72,7 @@ A curated list of awesome OpenGL libraries, debuggers and resources.
 * [assimp](http://assimp.sourceforge.net) - Portable library to import 3D models in a uniform manner.
 * [Bullet](http://bulletphysics.org/wordpress) - It provides state of the art collision detection, soft body and rigid body dynamics.
 * [freeGLUT](http://freeglut.sourceforge.net) - Mature library that allows to create/manage windows containing OpenGL contexts.
+* [gl](https://github.com/acdemiralp/gl) - OpenGL 4.6 Core Profile Wrapper for C++11
 * [GLFW](http://www.glfw.org) - Modern library for creating/interact windows with OpenGL contexts.
 * [GLFM](https://github.com/brackeen/glfm) - Supplies an OpenGL ES context and input events for mobile devices and the web.
 * [glm](http://glm.g-truc.net/0.9.6/index.html) - Mathematics library for graphics software based on the GLSL specifications.
@@ -84,7 +85,6 @@ A curated list of awesome OpenGL libraries, debuggers and resources.
 * [SOIL](http://www.lonesock.net/soil.html) - Tiny C library used primarily for uploading textures into OpenGL. (see [SOIL2](https://bitbucket.org/SpartanJ/soil2))
 * [Pangolin](https://github.com/stevenlovegrove/Pangolin) - Lightweight portable rapid development library for managing OpenGL display / interaction and abstracting video input.
 
-
 ## Profile Loaders
 
 *Profile loaders for OpenGL*
@@ -96,6 +96,13 @@ A curated list of awesome OpenGL libraries, debuggers and resources.
 * [GLEW](http://glew.sourceforge.net) - Mature cross-platform library to load OpenGL extensions.
 * [glLoadGen](https://bitbucket.org/alfonse/glloadgen/wiki/Home) - Multi profile loader-generator written in Lua.
 
+## Samples
+
+*Useful demos and examples*
+
+* [LearnOpenGL](https://github.com/JoeyDeVries/LearnOpenGL.git) - another OpenGL learning examples
+* [ogl](https://github.com/opengl-tutorials/ogl.git) - OpenGL tutorial examples
+* [prismarine](https://github.com/capitalknew/prismarine) - OpenGL 4.6 (with extensions) ray tracing headers and shaders with examples
 
 ## References
 
