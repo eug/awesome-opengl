@@ -47,7 +47,7 @@ A curated list of awesome OpenGL libraries, debuggers and resources.
 *Debugging and profiling libraries*
 
 * [apitrace](http://apitrace.github.io) - Tools for tracing OpenGL, Direct3D, and other graphics APIs.
-* [CodeXL](http://developer.amd.com/tools-and-sdks/opencl-zone/codexl/) - AMD's OpenGL debugger and profiler. It's the most recent version of gDEBugger.
+* [CodeXL](https://github.com/GPUOpen-Tools/CodeXL) - AMD's tool suite that includes debugger, profiler and frame/shader analysis.
 * [GL-SL Debugger](http://glsl-debugger.github.io) - Tool for debugging OpenGL programs.
 * [GLIntercept](https://github.com/dtrebilco/glintercept) - OpenGL function call interceptor for Windows.
 * [Intel-GPA](https://software.intel.com/en-us/gpa) - Intel's OpenGL Graphics Performance Analyzer.
