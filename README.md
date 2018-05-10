@@ -69,7 +69,7 @@ A curated list of awesome OpenGL libraries, debuggers and resources.
 
 *Useful libraries for OpenGL applications*
 
-* [assimp](http://assimp.sourceforge.net) - Portable library to import 3D models in a uniform manner.
+* [assimp](https://github.com/assimp/assimp) - Portable library to import 3D models in a uniform manner.
 * [Bullet](http://bulletphysics.org/wordpress) - It provides state of the art collision detection, soft body and rigid body dynamics.
 * [freeGLUT](http://freeglut.sourceforge.net) - Mature library that allows to create/manage windows containing OpenGL contexts.
 * [GLFW](http://www.glfw.org) - Modern library for creating/interact windows with OpenGL contexts.
