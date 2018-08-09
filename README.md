@@ -52,6 +52,7 @@ A curated list of awesome OpenGL libraries, debuggers and resources.
 * [GLIntercept](https://github.com/dtrebilco/glintercept) - OpenGL function call interceptor for Windows.
 * [Intel-GPA](https://software.intel.com/en-us/gpa) - Intel's OpenGL Graphics Performance Analyzer.
 * [NVIDIA® Nsight™](https://developer.nvidia.com/nvidia-nsight-visual-studio-edition) - Development platform for graphics applications.
+* [RenderDoc](https://github.com/baldurk/renderdoc) - RenderDoc is a stand-alone graphics debugging tool.
 * [vogl](https://github.com/ValveSoftware/vogl) - OpenGL capture and playback debugger developed by Valve.
 
 
