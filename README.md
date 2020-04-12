@@ -53,6 +53,7 @@ A curated list of awesome OpenGL libraries, debuggers and resources.
 * [Intel-GPA](https://software.intel.com/en-us/gpa) - Intel's OpenGL Graphics Performance Analyzer.
 * [NVIDIA® Nsight™](https://developer.nvidia.com/nvidia-nsight-visual-studio-edition) - Development platform for graphics applications.
 * [RenderDoc](https://github.com/baldurk/renderdoc) - RenderDoc is a stand-alone graphics debugging tool.
+* [tracy](https://github.com/wolfpld/tracy) - A real time remote telemetry frame profiler for games and other applications.
 * [vogl](https://github.com/ValveSoftware/vogl) - OpenGL capture and playback debugger developed by Valve.
 
 
