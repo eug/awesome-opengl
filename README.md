@@ -87,7 +87,7 @@ A curated list of awesome OpenGL libraries, debuggers and resources.
 * [SOIL](http://www.lonesock.net/soil.html) - Tiny C library used primarily for uploading textures into OpenGL. (see [SOIL2](https://bitbucket.org/SpartanJ/soil2))
 * [Pangolin](https://github.com/stevenlovegrove/Pangolin) - Lightweight portable rapid development library for managing OpenGL display / interaction and abstracting video input.
 * [morphologica](https://github.com/ABRG-Models/morphologica) - OpenGL graphics engine for data visualization, especially of numerical simulations.
-
+* [raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming.
 
 ## Profile Loaders
 
