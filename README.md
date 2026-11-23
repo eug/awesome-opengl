@@ -83,6 +83,7 @@ A curated list of awesome OpenGL libraries, debuggers and resources.
 * [Newton](http://newtondynamics.com/forum/newton.php) - It is a cross-platform life-like physics.
 * [OGLplus](http://oglplus.org) - Collection of libraries which implement an object-oriented facade over OpenGL.
 * [SDL](http://www.libsdl.org) - Designed to provide low level access to multimedia and graphics hardware.
+* [SDLPainter](https://github.com/yazilimperver/sdl-painter) - C++17 2D drawing library for SDL3 with an OpenGL 3.3 backend. [MIT] [website](https://yazilimperver.github.io/sdl-painter/)
 * [SFML](http://www.sfml-dev.org) - Simple interface to ease the development of games and multimedia applications.
 * [SOIL](http://www.lonesock.net/soil.html) - Tiny C library used primarily for uploading textures into OpenGL. (see [SOIL2](https://bitbucket.org/SpartanJ/soil2))
 * [Pangolin](https://github.com/stevenlovegrove/Pangolin) - Lightweight portable rapid development library for managing OpenGL display / interaction and abstracting video input.
